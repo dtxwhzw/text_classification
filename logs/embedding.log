@@ -1,0 +1,11 @@
+2020-10-22 20:53:24,667 - load_data.py[line:11] - INFO: load data
+2020-10-22 20:53:31,860 - load_data.py[line:21] - INFO: load data finish
+2020-10-22 20:55:09,480 - load_data.py[line:32] - INFO: train tfidf_embedding
+2020-10-22 20:55:09,480 - load_data.py[line:37] - INFO: start train word2vec embedding
+2020-10-22 20:55:31,028 - load_data.py[line:49] - INFO: train word2vec embedding
+2020-10-22 21:02:20,185 - load_data.py[line:54] - INFO: word2vec embedding finish
+2020-10-22 21:02:20,185 - load_data.py[line:59] - INFO: train fasttext embedding
+2020-10-22 21:14:35,329 - load_data.py[line:70] - INFO: fasttext finish
+2020-10-22 21:14:35,330 - load_data.py[line:75] - INFO: save tfidf model
+2020-10-22 21:17:37,206 - load_data.py[line:77] - INFO: save word2vec model
+2020-10-22 21:17:37,689 - load_data.py[line:79] - INFO: save fasttext model
